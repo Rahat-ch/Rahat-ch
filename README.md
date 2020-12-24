@@ -22,6 +22,7 @@ Coming Soon:
 
 Currently working on: 
 
-The Syler Project - an api of mental health resources in the US organized by state. Once I open source this, the hope is to expand it to other countries and eventually create an api for finding mental health resources by geo location. 
+The Syler Project - An open source project that serves as an aggregated list of mental health resources. Always looking for contributors please see open issues below:
+https://github.com/Rahat-ch/The_Sylar_Project
 
-Whimser - a React Native Mobile application aimed at making a self help CBT app. 
+Whimser - My mental health start up!
