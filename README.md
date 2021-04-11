@@ -26,3 +26,4 @@ The Syler Project - An open source project that serves as an aggregated list of 
 https://github.com/Rahat-ch/The_Sylar_Project
 
 Whimser - My mental health start up!
+https://www.whimser.io/
