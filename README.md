@@ -16,17 +16,14 @@ Here are some ideas to get you started:
 -->
 I'm a second career developer coming from a background in customer support management. In 2019 after completing a bootcamp, I became a software engineer at American Express. I'm also a mental health advocate, content creator, and rapper. I'm currently spending some of my time mentoring devs who are going through their own bootcamps. 
 
-Latest talks/workshops:
+Helping Devs Levelup: 
 
-Live Code along Build Ethereum SSO for your Next JS Application:
-https://www.youtube.com/watch?v=D7oWCWNbeOs
+https://levelupsmartcontracts.notion.site/Announcing-the-Level-Up-Challenge-4280e4ebc84c4524907ad1a524c5e578
 
-Build a Product become a developer:
-https://egghead.io/talks/egghead-build-a-product-become-a-developer
+Streaming every week and exploring different web3 Protocols: 
 
+https://www.youtube.com/@rahatcodes/streams
 
-In Progress tutorials:
-https://www.30secondsolidity.com/
+Building Protocol Explorer:
 
-In Progress course:
-https://app.slip.so/presale/smartcontracts
+https://www.protocolexplorer.com/
