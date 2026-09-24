@@ -22,4 +22,4 @@ TypeScript · React · Next.js · React Native · Node.js · NestJS · GraphQL �
 
 **📫 Find me**
 
-[rahatcodes.com](https://rahatcodes.com) · [YouTube](https://www.youtube.com/@rahatcodes) · rahat@rahatcodes.com
+[rahatcodes.com](https://rahatcodes.com) · [YouTube](https://www.youtube.com/@rahatcodes)
