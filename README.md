@@ -1,29 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Rahat-ch/Rahat-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rahat, a full-stack engineer based in DFW who likes shipping whole products: web, mobile, API, and infrastructure. I've spent 7+ years across TypeScript/React product work, applied AI, and developer relations.
 
-Here are some ideas to get you started:
+I came into software as a second career. I moved over from customer support management, did a bootcamp in 2019, and started as an engineer at American Express.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a second career developer coming from a background in customer support management. In 2019 after completing a bootcamp, I became a software engineer at American Express. I'm also a mental health advocate, content creator, and rapper. I'm currently spending some of my time mentoring devs who are going through their own bootcamps. 
+**🛠️ Right now**
 
-Helping Devs Levelup: 
+- Building **[Bento Anime](https://bentoanime.com)** at [Yabai Labs](https://yabailabs.fun/), the studio I cofounded. Bento is an anime discovery platform that runs on a Next.js web app, a NestJS GraphQL API, and React Native apps for iOS and Android. It uses AI to identify anime from screenshots and give mood-based recommendations.
+- Experimenting with AI agents, local/private LLMs, and Claude skills.
 
-https://levelupsmartcontracts.notion.site/Announcing-the-Level-Up-Challenge-4280e4ebc84c4524907ad1a524c5e578
+**📍 Before that**
 
-Streaming every week and exploring different web3 Protocols: 
+- **Movement:** Head of DevRel & AI Enablement. Lead engineer on Motion Wallet and built internal AI agents for Legal, Finance, and Engineering.
+- **Biconomy, Polygon, Morph:** Built and led DevRel and developer experience teams.
+- **Rabbithole, Simple Health:** Senior frontend engineer.
+- **American Express:** Software engineer, my first role in tech.
 
-https://www.youtube.com/@rahatcodes/streams
+**🧰 Stack**
 
-Building Protocol Explorer:
+TypeScript · React · Next.js · React Native · Node.js · NestJS · GraphQL · Docker · Cloudflare · LLMs & vector search
 
-https://www.protocolexplorer.com/
+**📫 Find me**
+
+[rahatcodes.com](https://rahatcodes.com) · [YouTube](https://www.youtube.com/@rahatcodes) · rahat@rahatcodes.com
